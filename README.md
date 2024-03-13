@@ -1,3 +1,4 @@
+**Malaria Detection**
 Malaria Detection using Convolutional Neural Networks
 Introduction
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected female Anopheles mosquitoes. In this project, we aim to develop a deep learning model to detect malaria from microscopic images of blood smears. We use Convolutional Neural Networks (CNNs) to classify the images as either infected or uninfected.
